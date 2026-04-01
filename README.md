@@ -2,6 +2,7 @@
 a usb hub meant to be as fast as flash
 This started when i thougth that i am such noob in hardware and i wanted to make something.
 then i stumbled upon the usb hub guide in fallout.
+It is made to remove all the mess  of wire.
 
 
 SCHNEMATICS
