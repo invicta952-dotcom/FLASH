@@ -116,3 +116,7 @@ ZINE
 
 <img width="210" height="297" alt="flash (1)" src="https://github.com/user-attachments/assets/67262ee9-8b36-4c7a-bc42-368bcc186a9a" />
 
+
+
+note:- the zine page is currently A4 size. i will change it when i will update for irl build
+
