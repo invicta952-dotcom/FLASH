@@ -30,10 +30,11 @@ i have more than 3 pherphials attached to my laptop and it look just all messy w
 <img width="742" height="333" alt="Screenshot From 2026-03-23 23-58-36" src="https://github.com/user-attachments/assets/55641314-2f4f-4530-8451-df1bdb76c419" />
 
 #  ZINE
-<img width="210" height="297" alt="flash (1)" src="https://github.com/user-attachments/assets/67262ee9-8b36-4c7a-bc42-368bcc186a9a" />
+<img width="404" height="618" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/c650d716-33c8-4490-b396-c2f347c16537" />
 
 
 
 
-note:- the zine page is currently A4 size. i will change it when i will update for irl build. I dont want to use any screw for the build so the case will fit approx excatly but it will wobble around a little 
+
+note:-I dont want to use any screw for the build so the case will fit approx excatly but it will wobble around a little 
 
