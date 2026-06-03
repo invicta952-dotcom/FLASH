@@ -38,4 +38,6 @@ i have more than 3 pherphials attached to my laptop and it look just all messy w
 
 
 note:-I dont want to use any screw for the build so the case will fit approx excatly but it will wobble around a little 
+Onshape link
+ https://cad.onshape.com/documents/85993acadfdd8d833793cc62/w/191aad62d5f9316c59db82bc/e/eb973c93c5c180b732df6156?renderMode=0&uiState=6a075ac01209bb9d47fbce25
 
