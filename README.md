@@ -34,7 +34,8 @@ i have more than 3 pherphials attached to my laptop and it look just all messy w
 
 
 #  ZINE
-<img width="404" height="618" alt="sacn me" src="https://github.com/user-attachments/assets/1385dd5d-3172-4e6b-9934-e13395b625e6" />
+<img width="404" height="618" alt="sacn me (1)" src="https://github.com/user-attachments/assets/dd97f45e-9202-4375-a1ad-23cc9a771b12" />
+
 
 
 
