@@ -1,0 +1,11 @@
+No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,cost,Supplier Part,Supplier,
+1,8,1μF,"C1,C2,C3,C4,C5,C6,C8,C11",C0603,1μF,,Approx 1$,,,https://www.lcsc.com/product-detail/C28323.html?s_z=n_1uf%2520capacitor&spm=wm.ssy.bg.1.xh&lcsc_vid=QARdAl1XTlNZAlxXFFVaBVVWFlILBQZUFgRWVl1VQVIxVlNRQlFcUl1QRlNXVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk
+2,3,100nF,"C7,C9,C10",C0603,100nF,,Approx 1$,,,https://www.lcsc.com/product-detail/C14663.html?s_z=n_0.1uf%2520capacitor&spm=wm.ssy.bg.0.xh&lcsc_vid=QARdAl1XTlNZAlxXFFVaBVVWFlILBQZUFgRWVl1VQVIxVlNRQlFcUVRSTlhYXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3
+3,6,5.1,"R1,R2,R3,R4,R5,R6",R0603,5.1,,$0.59,,https://www.lcsc.com/product-detail/C119554.html?spm=wm.fly.bg.0.stp___wm.fly.tp.7.ml&lcsc_vid=QARdAl1XTlNZAlxXFFVaBVVWFlILBQZUFgRWVl1VQVIxVlNRQlFcUlJQTlVXUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D,
+4,1,SL2.1s,U1,SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL,,SL2.1s,$1.27,C2684433,https://www.lcsc.com/product-detail/C2684433.html?spm=wm.gwc.xh.0.tp___wm.sxq.ssl.gwc&lcsc_vid=QARdAl1XTlNZAlxXFFVaBVVWFlILBQZUFgRWVl1VQVIxVlNRQlFcUlBWRVNWVTsOAxUeFF5JWBYZEEoBGA4JCwFIFA4DSA%3D%3D,
+5,3,TYPE-C 16PIN 2MD(073),"USB1,USB4,USB5",USB-C-SMD_TYPE-C-6PIN-2MD-073,,TYPE-C 16PIN 2MD(073),$1.41,C2765186,https://www.lcsc.com/product-detail/C2765186.html?spm=wm.gwc.xh.1.tp___wm.ssy.ssl.gwc&lcsc_vid=QARdAl1XTlNZAlxXFFVaBVVWFlILBQZUFgRWVl1VQVIxVlNRQlFcUlBfR1JYUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D,
+6,2,10.0 QHHTZB6.3,"USB2,USB3",USB-A-TH_10.0QHHTZB6.3,,10.0 QHHTZB6.3,0.64$ (1 pcs),C668591,https://www.lcsc.com/product-detail/C668591.html?spm=wm.gwc.xh.2.tp___wm.ssy.ssl.gwc&lcsc_vid=QARdAl1XTlNZAlxXFFVaBVVWFlILBQZUFgRWVl1VQVIxVlNRQlFcUlFQQFlXUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhYS,
+7,1,case,printing leigon,,,,3$ (shipping cost),,,
+,5,pcb,jlcpcb,,,,5$+shipping,,,
+,,,,,,micallenous,$5.00,,,
+,,,,,,total,$25.00,,,
