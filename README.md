@@ -29,6 +29,10 @@ i have more than 3 pherphials attached to my laptop and it look just all messy w
 #  3D RENDER
 <img width="742" height="333" alt="Screenshot From 2026-03-23 23-58-36" src="https://github.com/user-attachments/assets/55641314-2f4f-4530-8451-df1bdb76c419" />
 
+#  cart
+<img width="1288" height="614" alt="Screenshot From 2026-06-06 13-24-10" src="https://github.com/user-attachments/assets/dfa6730a-bc10-4d5d-9650-30f664b83761" />
+
+
 #  ZINE
 <img width="404" height="618" alt="sacn me" src="https://github.com/user-attachments/assets/1385dd5d-3172-4e6b-9934-e13395b625e6" />
 
@@ -37,7 +41,7 @@ i have more than 3 pherphials attached to my laptop and it look just all messy w
 
 
 
-note:-I dont want to use any screw for the build so the case will fit approx excatly but it will wobble around a little 
+note:-I dont want to use any screw for the build so the case will fit approx excatly but it will wobble around a little. ihave 100$ jlcpcb coupon so i will get pcba 
 Onshape link
  https://cad.onshape.com/documents/85993acadfdd8d833793cc62/w/191aad62d5f9316c59db82bc/e/eb973c93c5c180b732df6156?renderMode=0&uiState=6a075ac01209bb9d47fbce25
  easyeda link 
