@@ -1,17 +1,21 @@
 # FLASH
-#  what is this
+#  what is this?
 a usb hub meant to be as fast as flash.
-this usb hub have 2 type-c and 2 type-a for reciving and 1 type-c for input.
+this usb hub have 2 type-c and 2 type-a for reciving and 1 type-c for input. it has SL2.1s has the main brain which process all the data
 
 #  why flash??
 i have more than 3 pherphials attached to my laptop and it look just all messy wire around the table but with the flash most of wires will be gone as it is build to my needs.
 
 #  ASSEMBLY
-1. order the pcb from pcb service of your choice.
-2. 3d print the case
-3. put the pcb in case and slide the top
+1) dowload the grb file from this repo
+2) upload it to jlcpcb or any pcb srevice provider
+3) scroll down and enable pcba
+4) order the pcb
+5) 3dp print the case in parts
+6) put the pcb in bottom part and slide the upper part.
 
-
+#   what is this used for??
+come-on guys, lets be real everybody knows what this is.
 
 
 # SCHNEMATICS
