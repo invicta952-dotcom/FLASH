@@ -56,7 +56,7 @@ come-on guys, lets be real everybody knows what this is.
 
 
 #  ZINE
-<img width="404" height="618" alt="sacn me (1)" src="https://github.com/user-attachments/assets/dd97f45e-9202-4375-a1ad-23cc9a771b12" />
+<img width="404" height="618" alt="sacn me (2)" src="https://github.com/user-attachments/assets/650ab169-9aa4-432c-ae40-5841dcb607ca" />
 
 
 
