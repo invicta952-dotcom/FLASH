@@ -1,10 +1,28 @@
 # FLASH
+a custom, compact usb hub made to elimnate the need of extra wires
 #  what is this?
-a usb hub meant to be as fast as flash.
-this usb hub have 2 type-c and 2 type-a for reciving and 1 type-c for input. it has SL2.1s has the main brain which process all the data
+The **FLASH** USB Hub expands a single input into four downstream ports. It is powered by the **CoreChips SL2.1s** 
+
+* **Main Controller:** CoreChips SL2.1s (SSOP-16 architecture)
+* **Maximum Data Speed:** USB 2.0 High-Speed (Up to 480 Mbps)
+* **Downstream Ports (Output):** 
+  * 2x USB Type-C 
+  * 2x USB Type-A
+* **Upstream Port (Input):** 1x USB Type-C
+* **Enclosure Style:** Screwless, exact-fit 3D-printed case
+
+##  Project Directory Structure
+
+* `/PCB` — pcb source file
+* `/case` — 3D printing step files for the top and bottom shell 
+* `/zine` — zine pdf
+* `bom.csv` — Bill of Materials for quick parts ordering
+
+---
+
 
 #  why flash??
-i have more than 3 pherphials attached to my laptop and it look just all messy wire around the table but with the flash most of wires will be gone as it is build to my needs.
+If you look underneath your computer monitor or behind your desk and see an unsightly web of cables, this project is the antidote. Instead of buying a cheap generic plastic dongle, FLASH lets you custom-build a clean desktop interface that splits one USB-C input into four balanced downstream ports:2x Modern USB Type-C Ports2x Classic USB Type-A Ports
 
 #  ASSEMBLY
 1) dowload the grb file from this repo
