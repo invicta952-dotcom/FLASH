@@ -3,8 +3,8 @@ a custom, compact usb hub made to elimnate the need of extra wires
 #  what is this?
 The **FLASH** USB Hub expands a single input into four downstream ports. It is powered by the **CoreChips SL2.1s** 
 
-* **Main Controller:** CoreChips SL2.1s (SSOP-16 architecture)
-* **Maximum Data Speed:** USB 2.0 High-Speed (Up to 480 Mbps)
+* **Main Controller:** CoreChips SL2.1s 
+* **Maximum Data Speed:** USB 2.0 High-Speed
 * **Downstream Ports (Output):** 
   * 2x USB Type-C 
   * 2x USB Type-A
