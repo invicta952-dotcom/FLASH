@@ -58,6 +58,13 @@ come-on guys, lets be real everybody knows what this is.
 #  ZINE
 <img width="404" height="618" alt="sacn me (2)" src="https://github.com/user-attachments/assets/650ab169-9aa4-432c-ae40-5841dcb607ca" />
 
+#  case
+<img width="3504" height="2478" alt="Assembly 1" src="https://github.com/user-attachments/assets/ee5accf3-17b4-4356-ac2c-360a209730e8" />
+
+#   bottom
+<img width="3504" height="2478" alt="Assembly 1 (1)" src="https://github.com/user-attachments/assets/22fcff44-ed30-4186-96ec-2c361b8e2c7b" />
+
+
 
 
 
@@ -65,8 +72,12 @@ come-on guys, lets be real everybody knows what this is.
 
 
 note:-I dont want to use any screw for the build so the case will fit approx excatly but it will wobble around a little. ihave 100$ jlcpcb coupon so i will get pcba 
+<br>
+<br>
 Onshape link
  https://cad.onshape.com/documents/85993acadfdd8d833793cc62/w/191aad62d5f9316c59db82bc/e/eb973c93c5c180b732df6156?renderMode=0&uiState=6a075ac01209bb9d47fbce25
+ <br>
+ <br>
  easyeda link 
  https://u.easyeda.com/join?type=project&key=88858275a6a87437fc5d16824f0446b9&inviter=0cd3312942c647509feb6106b228a42e
 
